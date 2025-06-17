@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <departments>
+        <department>HR</department>
+        <department>IT</department>
+        <department>Finance</department>
+        <department>Marketing</department>
+        <department>Operations</department>
+    </departments>
+    <positions>
+        <position>Manager</position>
+        <position>Team Lead</position>
+        <position>Senior Specialist</position>
+        <position>Specialist</position>
+        <position>Junior Specialist</position>
+        <position>Intern</position>
+    </positions>
+    <educations>
+        <education>Ph.D</education>
+        <education>Master's Degree</education>
+        <education>Bachelor's Degree</education>
+        <education>Associate Degree</education>
+        <education>High School</education>
+    </educations>
+</config> 

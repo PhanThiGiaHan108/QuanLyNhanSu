@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Phan Thị Gia Hân</name>
+        <dateOfBirth>09/06/2025</dateOfBirth>
+        <department>IT</department>
+        <position>Manager</position>
+        <education>Ph.D</education>
+        <salary>8800000.0</salary>
+        <email>han@gmail.com</email>
+        <phone>0987057186</phone>
+        <address>Thai Binh</address>
+    </employee>
+</employees>
