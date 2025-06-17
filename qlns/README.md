@@ -44,11 +44,11 @@ Phần mềm Quản lý Nhân Sự là ứng dụng Java desktop cho phép quả
 ### Sử dụng mã nguồn
 1. Clone repository:
    ```
-   git clone https://github.com/your-username/QuanLyNhanSu.git
+   git clone https://github.com/PhanThiGiaHan108/QuanLyNhanSu.git
    ```
 2. Vào thư mục dự án:
    ```
-   cd QuanLyNhanSu
+   cd qlns
    ```
 3. Biên dịch và chạy bằng Maven:
    ```
